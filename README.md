@@ -11,12 +11,12 @@
 
 # 👋 About Me
 
-🎓 I'm **Rohit Yadav**, a second-year **BSc-IT student** with a strong passion for full stack web development and software engineering.
+🎓 I'm **Rohit Yadav**, passion for full stack web development and software engineering.
 
 💡 I'm currently focused on:
-- Building dynamic web apps using **HTML5, CSS3, JavaScript**
+- Building web apps using **HTML5, CSS3, JavaScript**
 - Learning **backend development** (Node.js, Express.js)
-- Improving coding logic with **DSA using Python**
+- Improving coding logic
 - Mastering tools like **Git, GitHub, and VS Code**
 
 ---
@@ -42,10 +42,8 @@
 
 Here are a few things I've been working on:
 
-- ✅ [To-Do List App](https://github.com/your-username/todo-list) — Simple task tracker using JS
-- 🌦️ [Weather App](https://github.com/your-username/weather-app) — API-based weather forecast tool
-- 📊 [Excel Dashboard Clone](https://github.com/your-username/excel-dashboard) — Visual dashboard using Excel (for data analysis)
-
+- ✅ [To-Do List App]() — Simple task tracker using JS
+- 🌦️ [Weather App]() — API-based weather forecast tool
 ➡️ More coming soon!
 
 ---
@@ -53,26 +51,22 @@ Here are a few things I've been working on:
 ## 📚 Currently Learning
 
 - Full Stack Development (Backend with Node.js + Express)
-- MongoDB and REST APIs
-- Git & GitHub (Version Control)
-- Data Structures & Algorithms (Python)
+- Python
 
 ---
 
 ## 🎯 2025 Goals
 
-- ✅ Build 10+ real-world projects
+- ✅ Build real-world projects
 - ✅ Master full stack skills
-- ✅ Contribute to open source
-- ✅ Secure internship/remote work
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-yadav&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadav&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?TechSimplifide=rohit-yadav&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?TechSimplifide=rohit-yadav&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -87,5 +81,5 @@ Here are a few things I've been working on:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-yadav&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?TechSimplifide=rohit-yadav&style=flat-square&color=blue" alt="Profile views"/>
 </p>
