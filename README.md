@@ -22,16 +22,9 @@
 
 ---
 
-<div align="center" style="background-color: #000000; padding: 10px; border-radius: 10px;">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techsimplifide&show_icons=true&locale=en&layout=compact" alt="techsimplifide" /></p>
 
-<a href="https://github.com/techsimplifide">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsimplifide&layout=compact&theme=radical&bg_color=000000&hide_border=true" alt="Top Languages"/>
-</a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techsimplifide&" alt="techsimplifide" /></p>
 
-<a href="https://github.com/techsimplifide">
-  <img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=techsimplifide&theme=radical&background=000000&hide_border=true" alt="Streak Stats"/>
-</a>
-
-</div>
 
 <br clear="both"/>
